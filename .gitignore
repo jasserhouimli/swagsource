@@ -1,0 +1,95 @@
+# Visual Studio
+.vs/
+*.sln.docstates
+*.user
+*.suo
+*.userosscache
+*.sln.ide/
+
+# Build outputs
+Build/bin/
+Build/obj/
+Build/*.log
+[Mm]icrosoft.[Cc]ode[Aa]nalysis.dll
+
+# Project-specific build artifacts
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww]in32/
+[Aa]rm64/
+*.exe
+*.dll
+*.lib
+*.exp
+*.ilk
+*.pdb
+*.ipdb
+*.iobj
+*.obj
+*.idb
+*.pdb
+*.pch
+*.sbr
+*.tlb
+*.tlh
+*.tli
+*.pgc
+*.pgd
+*.pgm
+*.metagen
+*.nativecodeanalysis.xml
+*.codeanalysiscfx.xml
+*_wp.cmd
+*.nupkg
+*.log
+*.tlog
+*.lastbuildstate
+*.dll.recipe
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.vsps
+
+# ReSharper
+*.ReSharper*
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeTmp/
+
+# Tooling
+[Dd]ownloads/
+[Tt]emp/
+[Rr]esources/
+
+# Windows OS
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+
+# macOS
+.DS_Store
+*.swp
+*.swo
+
+# Linux
+*~
+
+# Node / npm (if any)
+node_modules/
